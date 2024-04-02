@@ -1,0 +1,14 @@
+{
+  "streets": [
+    {
+      "ID": 1,
+      "Name": "Schlossallee",
+      "Preis": 200
+    },
+    {
+      "ID": 2,
+      "Name": "Parkstrasse",
+      "Preis": 180
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+target/
+.idea/
+locales.iml
+pom.xml
